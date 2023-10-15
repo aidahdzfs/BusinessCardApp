@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCardApp</string>
+    <string name="name">Aidah Dzulfadilah Suwardi</string>
+    <string name="title">Android Developer</string>
+    <string name="number">0896-1373-2611</string>
+    <string name="sosmed">https://www.linkedin.com/in/\naidahdzulfadilah/</string>
+    <string name="email">aidahdzulfadilah@gmail.com</string>
+</resources>
