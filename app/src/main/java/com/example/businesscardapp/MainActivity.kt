@@ -133,7 +133,7 @@ private fun Contact (callIcon: Painter, sosmedIcon: Painter, emailIcon: Painter,
 
 @Preview(showBackground = true)
 @Composable
-fun GreetingPreview() {
+fun BusinessCardAppPreview() {
     BusinessCardAppTheme {
         BusinessCardApp()
     }
